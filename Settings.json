@@ -1,0 +1,26 @@
+{
+  "LLM": {
+    "Model": "llama3.2:latest",
+    "Ollama": "http://localhost:11434/"
+  },
+  "VoiceOne": {
+    "VoiceModel": "en_GB-alba-medium",
+    "SpeakerId": 2
+  },
+  "VoiceTwo": {
+    "VoiceModel": "en_GB-northern_english_male-medium",
+    "SpeakerId": 0
+  },
+  "VoiceThree": {
+    "VoiceModel": "en_US-kristin-medium",
+    "SpeakerId": 0
+  },
+  "VoiceThreeM": {
+    "VoiceModel": "en_GB-semaine-medium",
+    "SpeakerId": 2
+  },
+  "VoiceThreeF": {
+    "VoiceModel": "en_GB-semaine-medium",
+    "SpeakerId": 3
+  }
+}
