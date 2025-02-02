@@ -1,25 +1,26 @@
 {
   "LLM": {
     "Model": "llama3.2:latest",
-    "Ollama": "http://localhost:11434/"
+    "Olamba": "http://localhost:11434/",
+    "SpeakResponse": true
   },
-  "VoiceOne": {
+  "en_GB-alba-medium": {
     "VoiceModel": "en_GB-alba-medium",
     "SpeakerId": 2
   },
-  "VoiceTwo": {
+  "en_GB-northern_english_male-medium": {
     "VoiceModel": "en_GB-northern_english_male-medium",
     "SpeakerId": 0
   },
-  "VoiceThree": {
+  "en_US-kristin-medium": {
     "VoiceModel": "en_US-kristin-medium",
     "SpeakerId": 0
   },
-  "VoiceThreeM": {
+  "en_GB-semaine-mediumMale": {
     "VoiceModel": "en_GB-semaine-medium",
     "SpeakerId": 2
   },
-  "VoiceThreeF": {
+  "en_GB-semaine-mediumFemale": {
     "VoiceModel": "en_GB-semaine-medium",
     "SpeakerId": 3
   }
